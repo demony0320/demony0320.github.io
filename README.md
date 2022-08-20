@@ -1,2 +1,2 @@
-# demony0320.github.io
-portfolio
+# Memory & Knowledge Archive 
+Jeff Jang - Software Developers
