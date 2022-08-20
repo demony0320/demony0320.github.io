@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "How to Add Post in Jekyll"
