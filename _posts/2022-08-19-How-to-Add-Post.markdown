@@ -13,4 +13,4 @@ We can add link like below
 [Daum]: https://www.daum.net
 
 we can add Image like below After upload into repository
-![Daum Logo](/assets/daum_logo)
+![Daum Logo](/assets/daum_logo.png)
